@@ -1,14 +1,6 @@
-# For run this project
+# For running this project:
 
-## Clone repository
-
-$ git clone https://github.com/Fayjul/rizik-web-project.git <br>
-$ cd rizik-web-project
-
-## .env file
-
-copy .env file from rizik-web-project
-and paste it in backend folder
+Clone the repository.
 
 ## run backend
 
